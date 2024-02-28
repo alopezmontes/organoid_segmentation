@@ -1,6 +1,5 @@
 # organoid_segmentation
-Simple code to segment organoids in microscopy images
-
+Code for segmentation of brightfield images of organoids to determine area, perimeter and circularity. Developed for Zivko et al, 2024, manuscript awaiting editorial decision
 Option 1: Google Collab (see Segment_organoids.ipynb)
 
 Option 2: install and run in local computer
