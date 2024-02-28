@@ -1,0 +1,8 @@
+matplotlib
+pillow
+scipy
+scikit-image
+ipympl
+ocpencv-python
+xlsxwriter
+glob2
